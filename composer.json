@@ -1,0 +1,29 @@
+{
+    "name": "alastor141/google-sheets",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sergey Ivakhnenko",
+            "email": "alastor141@gmail.com"
+        }
+    ],
+    "type": "library",
+    "version": "0.1.0",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2.5",
+        "google/apiclient": "^2.10",
+        "symfony/http-client": "^5.3",
+        "symfony/dependency-injection": "^5.3",
+        "symfony/config": "^5.3",
+        "symfony/yaml": "^5.3"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alastor141\\": "src/"
+        }
+    }
+}
