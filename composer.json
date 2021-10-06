@@ -10,7 +10,6 @@
     "type": "library",
     "version": "0.1.0",
     "license": "MIT",
-    "minimum-stability": "dev-main",
     "require": {
         "php": ">=7.2.5",
         "google/apiclient": "^2.10",
