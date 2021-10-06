@@ -13,7 +13,7 @@
     "require": {
         "php": ">=7.2.5",
         "google/apiclient": "^2.10",
-        "symfony/http-client": "^3.0",
+        "symfony/http-client": "^4.0",
         "symfony/dependency-injection": "^3.0",
         "symfony/config": "^3.0",
         "symfony/yaml": "^3.0"
